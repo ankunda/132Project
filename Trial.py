@@ -6,6 +6,18 @@ def function2():
     print "hey" * 108
 
 
+def function2():
+    print "hey" * 108
+
+
+def function2():
+    print "hey" * 108
+
+
+def function2():
+    print "hey" * 108
+
+
 def function3():
     pass
 
