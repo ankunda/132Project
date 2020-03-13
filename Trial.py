@@ -1,4 +1,5 @@
 def function1():
+    print "Hello"
     pass
 
 def function2():
@@ -9,7 +10,6 @@ def function3():
 
 def function4():
     pass
-
 function1()
 function2()
 function3()
