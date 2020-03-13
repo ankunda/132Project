@@ -3,7 +3,7 @@ def function1():
     pass
 
 def function2():
-    print "hey" * 8
+    print "hey" * 18
 
 
 def function3():
